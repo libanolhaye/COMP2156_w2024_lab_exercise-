@@ -1,12 +1,12 @@
 {
   "name": "comp-2156",
   "version": "1.0.0",
-  "description": "COMP 2156 lab exersize",
+  "description": "COMP 2156 lab exercise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ci":"echo\"No ci configured\""
-},
+    "ci": "echo \"No CI configured\""
+  },
   "keywords": [],
   "author": "Liban Olhaye",
   "license": "ISC"

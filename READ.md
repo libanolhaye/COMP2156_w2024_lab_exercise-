@@ -1,4 +1,7 @@
 #### COMP2156-Developer Operations
-###  Liban O
-###  GitHub action CI/CD integration 
+Github action and node project example 
+
+### Refernce 
+--https://nodejs.org/dist/v20.11.0/node-v20.11.0-x64.msi
+--https://github.com/nodejs/node/blob/main/doc/api/documentation.md
 
